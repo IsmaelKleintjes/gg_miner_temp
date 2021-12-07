@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form>
+    <fieldset name="essential" addfieldpath="/administrator/components/com_twins/models/fields">
+
+    </fieldset>
+
+    <fieldset>
+
+        <field
+                name="id"
+                type="hidden"
+        />
+        <field
+                name="company_name"
+                type="text"
+                default=""
+        />
+        <field
+                name="phone_number"
+                type="number"
+                default=""
+        />
+        <field
+                name="emailadres"
+                type="email"
+                default=""
+        />
+        <field
+                name="zip_code"
+                type="text"
+                default=""
+        />
+        <field
+                name="adress"
+                type="text"
+                default=""
+        />
+
+    </fieldset>
+</form>

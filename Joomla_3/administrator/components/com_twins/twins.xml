@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="component" version="3.0" method="upgrade">
+	<name>Twins</name>
+	<author>Edit4U Webservices BV</author>
+	<creationDate>Maart 2017</creationDate>
+	<copyright>(C) 2004 - 2019 Edit4U Webservices</copyright>
+	<license>Algemene voorwaarden Edit4U Webservices BV.</license>
+	<authorEmail>info@edit4u.nl</authorEmail>
+	<authorUrl>www.edit4u.nl</authorUrl>
+	<version>1.0.0</version>
+	<description>Twins component</description>
+	<administration>
+		<menu link="index.php?option=com_twins">Twins component</menu>
+	</administration>
+</extension>
+
+

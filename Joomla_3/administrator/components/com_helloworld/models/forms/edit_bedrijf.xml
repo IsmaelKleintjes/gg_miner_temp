@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form>
+	<fieldset>
+		<field
+				name="id"
+				type="hidden"
+				/>
+		<field
+				name="naam"
+				type="text"
+				label="Naam"
+				description="Naam"
+				size="40"
+				class="inputbox"
+				default=""
+				/>
+                <field
+				name="naam_bedrijf"
+				type="text"
+				label="Naam bedrijf"
+				description="Naam bedrijf"
+				size="40"
+				class="inputbox"
+				default=""
+				/>
+                <field
+				name="telefoonnummer"
+				type="text"
+				label="Telefoonnummer"
+				description="Telefoonnummer"
+				size="10"
+				class="inputbox"
+				default=""
+				/>
+                <field
+				name="postcode"
+				type="text"
+				label="Postcode"
+				description="Postcode"
+				size="6"
+				class="inputbox"
+				default=""
+				/>
+                <field
+				name="adress"
+				type="text"
+				label="Adress"
+				description="Adress"
+				size="40"
+				class="inputbox"
+				default=""
+				/>
+                <field
+				name="emailadres"
+				type="text"
+				label="Email adres"
+				description="Email adres"
+				size="40"
+				class="inputbox"
+				default=""
+				/>
+                <field
+				name="created_at"
+				type="hidden"
+				/>
+                
+	</fieldset>
+</form>

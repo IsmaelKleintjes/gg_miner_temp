@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 2.5//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/2.5/template-install.dtd">
+<extension version="3.1" type="template" client="site">
+	<name>APP Work</name>
+	<version>1.0</version>
+	<creationDate>2018</creationDate>
+	<author>Edit4U Webservices B.V.</author>
+	<authorEmail>info@edit4u.nl</authorEmail>
+	<copyright>Copyright (C) 2005 - 2015 Edit4U Webservices BV. All rights reserved.</copyright>
+	<description>Webapplication template</description>
+</extension>
