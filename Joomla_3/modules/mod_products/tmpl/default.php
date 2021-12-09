@@ -38,10 +38,10 @@ defined('_JEXEC') or die; ?>
                 <?php endif; ?>
                                 <tr>
                                     <td>
-                                        <a href="http://localhost/edit4u/Joomla_3/Joomla_3/index.php/order">View cart</a>
+                                        <a href="http://localhost/edit4u/Joomla_3/gg_miner_temp/Joomla_3/index.php/order">View cart</a>
                                     </td>
                                     <td>
-                                        <a href="http://localhost/edit4u/Joomla_3/Joomla_3/index.php/order">Checkout</a>
+                                        <a href="http://localhost/edit4u/Joomla_3/gg_miner_temp/Joomla_3/index.php/order">Checkout</a>
                                     </td>
                                     <td><?=$total_price?></td>
                                 </tr>
